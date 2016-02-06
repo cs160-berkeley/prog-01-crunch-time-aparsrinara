@@ -4,11 +4,11 @@ Briefly describe your app here.
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Aparna Narayan ([anarayan@berkeley.edu](mailto:anarayan@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See [CS160Prog01] (https://www.youtube.com/watch?v=sYf2JBCFrAw&feature=youtu.be)
 
 ## Screenshots
 
